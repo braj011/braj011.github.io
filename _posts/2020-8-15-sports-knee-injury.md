@@ -2,7 +2,7 @@
 layout: post
 title: Sports Knee Injuries and Rehabilitation
 subtitle: Find links to  the sports knee injuries I assess and rehabilitation programmes I recommend
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/recovery-3.jpeg
 ---
 
 ## Please choose :

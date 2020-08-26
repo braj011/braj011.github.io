@@ -13,12 +13,16 @@ Please refer to the relevant pages for more details on the procedures and condit
 ### SPECIAL INTERESTS
 - Knee arthroscopy
 - Sports injuries of the knee
+- Soft tissue knee surgery (sports related)
 - Partial knee replacement (medial and patello-femoral)
 - Total knee replacement
 - Computer navigated surgery 
 - Cartilage transplant
 - Ligament reconstruction
 - Hip replacement
+
+### CURRICULUM VITAE
+- [CV](./assets/docs/dipak_raj_CV.pdf){:target="_blank"}
 
 ### Get in touch at [medskillscourse@gmail.com](mailto:medskillscourse@gmail.com?subject=Patient%20Enquiry)
 
@@ -47,12 +51,6 @@ Please refer to the relevant pages for more details on the procedures and condit
 - Mch. Orth. University of Liverpool 1997
 
 - FRCS Tr and Orth.  Intercollegiate Examination Board 2007
-
-
-### SPECIAL INTEREST
-
-- Sports and soft tissue knee surgery
-
 
 ### MEDICO-LEGAL PRACTICE
 
