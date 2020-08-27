@@ -24,7 +24,8 @@ Please refer to the relevant pages for more details on the procedures and condit
 ### CURRICULUM VITAE
 - [CV](./assets/docs/dipak_raj_CV.pdf){:target="_blank"}
 
-### Get in touch at [medskillscourse@gmail.com](mailto:medskillscourse@gmail.com?subject=Patient%20Enquiry)
+### Get in touch at [medskillscourse@gmail.com](mailto:medskillscourse@gmail.com?subject=Patient%20Enquiry) 
+### Or call <span style="color:#F79258">0845 6439597</span>
 
 ----------------------------------------
 
