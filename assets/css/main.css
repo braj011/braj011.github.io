@@ -587,6 +587,7 @@ footer .footer-custom-content {
 }
 .intro-header .page-heading {
   text-align: center;
+    margin-top: -3rem;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
@@ -604,12 +605,13 @@ footer .footer-custom-content {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.6875rem;
+  font-size: 1.8rem;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 800;
   margin: 0.625rem 0 0;
+    color: rgb(251,146,89)
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 1.25rem;
@@ -642,7 +644,8 @@ footer .footer-custom-content {
     margin-top: 8.125rem;
   }
   .intro-header.big-img {
-    margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
+      margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
+        height: 24rem;
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
