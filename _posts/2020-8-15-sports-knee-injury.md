@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Sports Knee Injuries and Rehabilitation
-subtitle: Find links to  the sports knee injuries I assess and rehabilitation programmes I recommend
+subtitle:  Resources related to the sports knee injuries I assess and rehabilitation programmes Mr Raj recommends
 cover-img: /assets/img/recovery-3.jpeg
 ---
-
-## Please choose :
-Find the relevant problem and associated information pack.
+Contact at [medskillscourse@gmail.com](mailto: medskillscourse@gmail.com) or ring 0845 6439597 to book an appointment.
 
 -----
-## Sports Injuries
+### Sports Injuries
 -----
 - **Cycling Knee Problems**
     - [Information Pack](../assets/pdfs/sports-knee-docs/Cycling_Knee_Problems.pdf){:target="_blank"}
@@ -23,7 +21,7 @@ Find the relevant problem and associated information pack.
     - [Information Pack](../assets/pdfs/sports-knee-docs/Sports_Knee_injury.pdf){:target="_blank"}
 
 -----
-## Rehabilitation
+### Rehabilitation
 -----
 - **Knee Pain in Osteoarthritis**
     - [Home Exercise Guide](../assets/pdfs/sports-knee-docs/Knee_Pain_(Osteoarthritis)_Home_Exercise_Guide.pdf){:target="_blank"}

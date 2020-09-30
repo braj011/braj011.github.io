@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Medico-legal Consultations
-subtitle: Links to the hip procedures I perform
+subtitle: Find the relevant documents regarding Medico-legal consultations with Mr Raj across various locations and interests
 cover-img: /assets/img/recovery-1.jpeg
 ---
-
-Describes the Medico-legal consultations Mr Raj conducts over a range of interest and locations
-
-
+Contact at [medskillscourse@gmail.com](mailto: medskillscourse@gmail.com) or ring 0845 6439597 to book an appointment. 
+ 
 -----
-## Medico-legal documents
+### Medico-legal documents
 -----
 - **Consultation**
     - [Information Pack](../assets/docs/medico_legal_practice.docx){:target="_blank"}
