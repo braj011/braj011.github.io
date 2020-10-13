@@ -131,19 +131,62 @@ img {
     text-align: left;
 }
 
-.home-page-main-text {
+.home-page-text-container  {
     display: inline-block;
     vertical-align: top;
-    width: 46%;
+    width: 55%;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+.home-page-main-text {
+}
+
+.home-page-surgeon-img {
+    display: inline-block;
+    width: 35%;
+}
+
+.book-button {
+    position: relative;
+    left: 27.5%;
+    background-color: rgb(9,31,96);
+    color: #ffffff;
+    border: 2px ;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 3rem auto;
+
 }
 
 @media(max-width: 768px) {
+    .home-page-text-container  {
+        text-align: center;
+        display: block;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
     .home-page-main-text {
         font-size: 1rem; !important;
-        margin-right: 5px;
+        margin: 1rem 1rem;
     }
 
+    .home-page-surgeon-img {
+        display: block;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .book-button {
+        left: 0%;
+        margin: 1rem auto;
+    }
 }
+
+/*@media (max-width: 800px) {*/
+/*    width:  80%;*/
+/*}*/
 
 /* --- Navbar --- */
 
