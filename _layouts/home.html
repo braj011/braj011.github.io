@@ -6,6 +6,17 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 
+<div class="home-page-container">
+    <h3 class="home-page-main-text">
+        Mr Dipak Raj is a Consultant Orthopaedic Surgeon knee and hip surgeon.
+    </h3>
+<!--    todo: continue adding the right styles and content-->
+    <img style="display: inline-block; width: 46%;@media (max-width: 800px) {
+      width: 80%;
+    }" src="{{ 'assets/img/dipak-raj-img-1.jpeg' | relative_url }}" />
+</div>
+
+
 <div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">

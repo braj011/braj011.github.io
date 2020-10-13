@@ -7,7 +7,7 @@ layout: null
 /* --- General --- */
 
 html {
-  font-size: 100%
+  font-size: 100%;
 }
 
 body {
@@ -121,6 +121,28 @@ img {
 .linked-section {
   padding-top: 3.75rem;
   margin-top: -1.5625rem;
+}
+
+
+
+/* --- Home page container - BR added --- */
+
+.home-page-container {
+    text-align: left;
+}
+
+.home-page-main-text {
+    display: inline-block;
+    vertical-align: top;
+    width: 46%;
+}
+
+@media(max-width: 768px) {
+    .home-page-main-text {
+        font-size: 1rem; !important;
+        margin-right: 5px;
+    }
+
 }
 
 /* --- Navbar --- */
@@ -597,7 +619,7 @@ footer .footer-custom-content {
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
-  margin-top: 0;
+  margin-top: -1.5rem;
   font-size: 3.125rem;
 }
 .intro-header .post-heading h1 {
@@ -614,6 +636,18 @@ footer .footer-custom-content {
   margin: 0.625rem 0 0;
     color: rgb(251,146,89)
 }
+
+/* BR ADDED for the orange text in main page*/
+
+@media (max-width: 768px) {
+    .intro-header .page-heading .page-subheading {
+        font-size: 1.5rem; !important;
+    }
+    .intro-header.big-img .page-heading {
+        height: 400px !important;
+    }
+}
+
 .intro-header .post-heading .post-subheading {
   margin-bottom: 1.25rem;
 }
@@ -646,7 +680,7 @@ footer .footer-custom-content {
   }
   .intro-header.big-img {
       margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
-        height: 24rem;
+        height: 23rem;
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
