@@ -6,7 +6,7 @@ subtitle:
 
 Mr Dipak Raj, Consultant Orthopaedic Knee and Hip Surgeon, FRCSI, MS, D Orth, MCh Orth, FRCS (Tr & Orth)
 
-_"I am a senior specialist knee and hip surgeon, with special emphasis on problems for adults (20 – 65 years)."_
+_"I am a senior specialist knee and hip surgeon, with special emphasis on problems for adults (20 -65 years) and sports knee injuries."_
 
 Please refer to the relevant pages for more details on the procedures and conditions Mr Raj assesses.
  

@@ -13,6 +13,7 @@ author: Dipak Raj
 
 navbar-links:
   Profile: "profile"
+  Locations: "locations"
   Resources:
     - Knee procedures: "2020-08-17-knee"
     - Hip procedures: "2020-08-16-hip"
